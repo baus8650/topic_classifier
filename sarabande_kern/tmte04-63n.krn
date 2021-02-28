@@ -1,0 +1,47 @@
+!!!OTL: 63n. J.S. Bach, French Suite no. 3 in B minor, BWV 814, Sarabande, mm. 1-5
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#c#]	*k[f#c#]
+*b:	*b:
+*M3/4	*M3/4
+*MM96	*MM96
+=1-	=1-
+*^	*
+2d/	2B\	8b\L
+.	.	8dd\
+.	.	8ff#\
+.	.	[8bb\
+4e/	4c#\	8bb\]
+.	.	8aa#\J
+=2	=2	=2
+2f#/	2d\	8bb\L
+.	.	8ff#\J
+.	.	16ee\LL
+.	.	16dd\
+.	.	16cc#\
+.	.	[16b\JJ
+4e/	4c#\	8b/L]
+.	.	8a#/J
+=3	=3	=3
+4d/	4B\	8b\L
+.	.	[8gg\J
+4c#/	4An\	16gg\LL]
+.	.	16ff#\
+.	.	16ee\
+.	.	[16ff#\JJ
+[4B/	4G\	16ff#\LL]
+.	.	16ee\
+.	.	16dd\
+.	.	16ee\JJ
+=4	=4	=4
+8B/L]	2F#\	2.ee\
+8A#/	.	.
+8c#/	.	.
+[8f#/	.	.
+8f#/]	4A#\	.
+8f#/J	.	.
+*v	*v	*
+=||	=||
+*-	*-
+!!!hum2abc: -q
